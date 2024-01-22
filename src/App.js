@@ -13,7 +13,7 @@ import { AccountCircleOutlined, AccountCircleRounded, CelebrationRounded, Holida
 const DrawerItems = [
   { text: 'Home', icon: <HomeRounded />, path: '/' },
   { text: 'User Profile', icon: <AccountCircleRounded />, path: '/user-profile' },
-  { text: 'My School', icon: <SchoolRounded />, path: '/my-school' },
+  { text: 'My Home', icon: <SchoolRounded />, path: '/my-school' },
   { text: 'My Village', icon: <HolidayVillageRounded />, path: '/my-village' },
   { text: 'My Achievements', icon: <CelebrationRounded />, path: '/my-achievements' },
 ];
